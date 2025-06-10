@@ -1,0 +1,62 @@
+{
+    "version": "1.0.0",
+    "featuredApp": {
+        "id": "qx_app_id",
+        "customDescriptionId": "qx_featured_description"
+    },
+    "topApps": [
+        "explorer_app_id",
+        "proposals_app_id"
+    ],
+    "dapps": [
+        {
+            "id": "explorer_app_id",
+            "nameId": "explorer_name",
+            "icon": "",
+            "url": "https://explorer.qubic.org",
+            "descriptionId": "explorer_description"
+        },
+        {
+            "id": "proposals_app_id",
+            "nameId": "proposals_name",
+            "icon": "",
+            "url": "https://proposals.qubic.org",
+            "descriptionId": "proposals_description"
+        },
+        {
+            "id": "qx_app_id",
+            "nameId": "qx_name",
+            "icon": "",
+            "url": "https://qx.qubic.org",
+            "descriptionId": "qx_description"
+        },
+        {
+            "id": "qearn_app_id",
+            "nameId": "qearn_name",
+            "icon": "https://framerusercontent.com/images/OlRHyS54DdB86UYF7BlAZbFQ.png",
+            "url": "https://www.qearn.org/",
+            "descriptionId": "qearn_description"
+        },
+        {
+            "id": "qxboard_app_id",
+            "nameId": "qxboard_name",
+            "icon": "",
+            "url": "https://www.qxboard.com/",
+            "descriptionId": "qxboard_description"
+        },
+        {
+            "id": "qxtrade_app_id",
+            "nameId": "qxtrade_name",
+            "icon": "",
+            "url": "https://qubictrade.com/",
+            "descriptionId": "qxtrade_description"
+        },
+        {
+            "id": "opensea_app_id",
+            "nameId": "opensea_name",
+            "icon": "https://pageflows.imgix.net/media/logos/opensea.png?auto=compress&ixlib=python-1.1.2&s=459d52d3fe14f0c5ab2ade3916d4c862",
+            "url": "https://opensea.io",
+            "descriptionId": "opensea_description"
+        }
+    ]
+}
