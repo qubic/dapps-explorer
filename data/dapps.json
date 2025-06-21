@@ -28,7 +28,8 @@
             "nameId": "qx_name",
             "icon": "",
             "url": "https://qx.qubic.org",
-            "descriptionId": "qx_description"
+            "descriptionId": "qx_description",
+            "openButtonTitleId": "qx_open_button_title"
         },
         {
             "id": "qearn_app_id",
