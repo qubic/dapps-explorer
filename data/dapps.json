@@ -47,13 +47,6 @@
             "icon": "",
             "url": "https://qubictrade.com/",
             "descriptionId": "qxtrade_description"
-        },
-        {
-            "id": "opensea_app_id",
-            "nameId": "opensea_name",
-            "icon": "https://pageflows.imgix.net/media/logos/opensea.png?auto=compress&ixlib=python-1.1.2&s=459d52d3fe14f0c5ab2ade3916d4c862",
-            "url": "https://opensea.io",
-            "descriptionId": "opensea_description"
         }
     ]
 }
