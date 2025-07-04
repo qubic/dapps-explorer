@@ -1,9 +1,5 @@
 {
     "version": "1.0.0",
-    "featuredApp": {
-        "id": "qx_app_id",
-        "customDescriptionId": "qx_featured_description"
-    },
     "topApps": [
         "explorer_app_id",
         "proposals_app_id"
