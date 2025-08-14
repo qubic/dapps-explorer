@@ -1,9 +1,5 @@
 {
     "version": "1.0.0",
-    "featuredApp": {
-        "id": "qx_app_id",
-        "customDescriptionId": "qx_featured_description"
-    },
     "topApps": [
         "explorer_app_id",
         "proposals_app_id"
@@ -28,8 +24,7 @@
             "nameId": "qx_name",
             "icon": "",
             "url": "https://qx.qubic.org",
-            "descriptionId": "qx_description",
-            "openButtonTitleId": "qx_open_button_title"
+            "descriptionId": "qx_description"
         },
         {
             "id": "qearn_app_id",
@@ -51,13 +46,6 @@
             "icon": "",
             "url": "https://qubictrade.com/",
             "descriptionId": "qxtrade_description"
-        },
-        {
-            "id": "opensea_app_id",
-            "nameId": "opensea_name",
-            "icon": "https://pageflows.imgix.net/media/logos/opensea.png?auto=compress&ixlib=python-1.1.2&s=459d52d3fe14f0c5ab2ade3916d4c862",
-            "url": "https://opensea.io",
-            "descriptionId": "opensea_description"
         }
     ]
 }
