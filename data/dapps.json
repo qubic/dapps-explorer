@@ -20,13 +20,6 @@
             "descriptionId": "proposals_description"
         },
         {
-            "id": "qx_app_id",
-            "nameId": "qx_name",
-            "icon": "",
-            "url": "https://qx.qubic.org",
-            "descriptionId": "qx_description"
-        },
-        {
             "id": "qearn_app_id",
             "nameId": "qearn_name",
             "icon": "https://framerusercontent.com/images/OlRHyS54DdB86UYF7BlAZbFQ.png",
@@ -46,6 +39,13 @@
             "icon": "",
             "url": "https://qubictrade.com/",
             "descriptionId": "qxtrade_description"
+        },
+        {
+            "id": "qx_app_id",
+            "nameId": "qx_name",
+            "icon": "",
+            "url": "https://qx.qubic.org",
+            "descriptionId": "qx_description"
         }
     ]
 }
