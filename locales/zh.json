@@ -14,5 +14,7 @@
     "opensea_name": "OpenSea",
     "opensea_description": "NFT 市場。",
     "explorer_name": "Qubic Explorer",
-    "explorer_description": "輕鬆存取所有區塊鏈資料。"
+    "explorer_description": "輕鬆存取所有區塊鏈資料。",
+    "community_voting_name": "社群投票",
+    "community_voting_description": "建立投票、投票並參與 Qubic 治理。"
 }

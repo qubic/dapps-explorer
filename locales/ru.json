@@ -14,5 +14,7 @@
     "opensea_name": "OpenSea",
     "opensea_description": "Площадка для торговли NFT.",
     "explorer_name": "Qubic Explorer",
-    "explorer_description": "Простой доступ ко всем данным блокчейна."
+    "explorer_description": "Простой доступ ко всем данным блокчейна.",
+    "community_voting_name": "Голосование сообщества",
+    "community_voting_description": "Создавай опросы, голосуй и участвуй в управлении Qubic."
 }

@@ -20,6 +20,13 @@
             "descriptionId": "proposals_description"
         },
         {
+            "id": "community_voting_app_id",
+            "nameId": "community_voting_name",
+            "icon": "",
+            "url": "https://community.voting.qubic.org/",
+            "descriptionId": "community_voting_description"
+        },
+        {
             "id": "qearn_app_id",
             "nameId": "qearn_name",
             "icon": "https://framerusercontent.com/images/OlRHyS54DdB86UYF7BlAZbFQ.png",

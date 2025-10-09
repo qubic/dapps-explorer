@@ -14,5 +14,7 @@
     "opensea_name": "OpenSea",
     "opensea_description": "NFT pazaryeri.",
     "explorer_name": "Qubic Explorer",
-    "explorer_description": "Tüm blokzincir verilerine kolay erişim."
+    "explorer_description": "Tüm blokzincir verilerine kolay erişim.",
+    "community_voting_name": "Topluluk Oylaması",
+    "community_voting_description": "Anket oluştur, oy ver ve Qubic’in yönetimine katıl."
 }
