@@ -16,7 +16,7 @@
             "id": "proposals_app_id",
             "nameId": "proposals_name",
             "icon": "",
-            "url": "https://proposals.qubic.org",
+            "url": "https://quorum.voting.qubic.org/",
             "descriptionId": "proposals_description"
         },
         {
