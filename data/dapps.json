@@ -60,6 +60,13 @@
             "icon": "",
             "url": "https://qubicbay.io/",
             "descriptionId": "qbay_description"
+        },
+        {
+            "id": "qbond_app_id",
+            "nameId": "qbond_name",
+            "icon": "",
+            "url": "https://www.qbond.org/",
+            "descriptionId": "qbond_description"
         }
     ]
 }
