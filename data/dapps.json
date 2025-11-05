@@ -48,13 +48,6 @@
             "descriptionId": "qxtrade_description"
         },
         {
-            "id": "qx_app_id",
-            "nameId": "qx_name",
-            "icon": "",
-            "url": "https://qx.qubic.org",
-            "descriptionId": "qx_description"
-        },
-        {
             "id": "qbay_app_id",
             "nameId": "qbay_name",
             "icon": "",
