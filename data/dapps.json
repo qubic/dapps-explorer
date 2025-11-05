@@ -41,11 +41,11 @@
             "descriptionId": "qxboard_description"
         },
         {
-            "id": "qubictrade_app_id",
-            "nameId": "qubictrade_name",
+            "id": "qxtrade_app_id",
+            "nameId": "qxtrade_name",
             "icon": "",
             "url": "https://qubictrade.com/",
-            "descriptionId": "qubictrade_description"
+            "descriptionId": "qxtrade_description"
         },
         {
             "id": "qbay_app_id",
