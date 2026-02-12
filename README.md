@@ -1,4 +1,8 @@
-# dapps-explorer
+# dapps-explorer [DEPRECATED]
+
+> **This repository has been deprecated.** The data has been moved to [qubic/static](https://github.com/qubic/static). Please refer to that repository for the latest dApps Explorer data. No further updates will be made here.
+
+---
 
 This repository contains JSON metadata used by our mobile wallet apps to render a dynamic **DApps Explorer** interface. It lists curated decentralized applications (dApps) that support wallet connectivity, enabling users to interact with Web3 apps directly from within the wallet.
 
@@ -30,8 +34,8 @@ Example entry in `dapps.json`:
 ### 🔑 Field Descriptions
 
 - `id`: Unique string identifier for the dApp.
-- `nameId`: Localization key for the dApp’s name.
-- `descriptionId`: Localization key for the dApp’s description.
+- `nameId`: Localization key for the dApp's name.
+- `descriptionId`: Localization key for the dApp's description.
 - `icon`: URL to the dApp's icon image.
 - `url`: Public URL or entry point for the dApp.
 
